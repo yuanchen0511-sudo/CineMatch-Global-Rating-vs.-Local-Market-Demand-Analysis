@@ -9,7 +9,7 @@ This project explores the correlation between global cinematic acclaim and local
 * **Data Acquisition:** Python (`Selenium`, `BeautifulSoup4`)
 * **Data Processing:** `Pandas`, `NumPy`
 * **Statistical Analysis:** Pearson Correlation, `Matplotlib`, `Seaborn`
-* **Environment:** VS Code / Jupyter Notebook
+* **Environment:** VS Code
 
 ---
 
