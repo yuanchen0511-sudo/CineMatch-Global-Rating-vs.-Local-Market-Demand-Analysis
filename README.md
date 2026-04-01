@@ -39,7 +39,3 @@ The study yielded a **correlation coefficient of 0.22**, indicating a **weak pos
 3.  Run `movietime.py` to fetch current theater data.
 4.  Execute the analysis script to generate the correlation plot.
 
----
-
-### **Contact**
-If you're interested in data consulting or BI analysis, feel free to connect!
